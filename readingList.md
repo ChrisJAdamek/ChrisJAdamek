@@ -1,7 +1,7 @@
 # 📚 My Reading List
 
 ## Tokens
-- REPORT ON SIGNIFICANT ASPECTS OF THE PROPOSAL FOR THE EUROPEAN PARLIAMENT TO PASS A REGULATION ON MARKETS IN CRYPTO-ASSETS (MiCA) AND AMEND THE DIRECTIVE (EU) 2019/1937, LexPunk, May 2022, [Github](https://github.com/LeXpunK-Army/MiCA-GUIDANCE/blob/main/LexPunkMiCAReport.pdf).
+- [Report on Significant Aspects of the Proposal for the European Parliament to Pass a Regulation on Markets in Crypto-Assets (MiCA) and Amend the Directive (EU) 2019/1937)](https://github.com/LeXpunK-Army/MiCA-GUIDANCE/blob/main/LexPunkMiCAReport.pdf) E, LexPunk, May 2022, Github. 
 
 ## DAOs
 - 
