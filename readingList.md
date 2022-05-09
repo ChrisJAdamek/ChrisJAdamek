@@ -1,7 +1,7 @@
 # 📚 My Reading List
 
 ## Tokens
-- [LexPunk's MiCA Report](https://github.com/LeXpunK-Army/MiCA-GUIDANCE/blob/main/LexPunkMiCAReport.pdf) (Response to EU's MiCA Framework)
+- REPORT ON SIGNIFICANT ASPECTS OF THE PROPOSAL FOR THE EUROPEAN PARLIAMENT TO PASS A REGULATION ON MARKETS IN CRYPTO-ASSETS (MiCA) AND AMEND THE DIRECTIVE (EU) 2019/1937, LexPunk, May 2022, [Github](https://github.com/LeXpunK-Army/MiCA-GUIDANCE/blob/main/LexPunkMiCAReport.pdf).
 
 ## DAOs
 - 
