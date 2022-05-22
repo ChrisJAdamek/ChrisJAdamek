@@ -2,7 +2,7 @@
 
 I’ve been the victim of rug pulls, smart contract exploits and collapsed exchanges. I still have hope for crypto’s future. 
 
-Crypto provides a smorgasbord of entertaining options for people willing to part with their money. As a crypto investor, you have a standing invite to YOLO into a variety of illiquid, dog-themed tokens using 100x leverage. You can also try your hand at timing an exit from a selection of functionally-identical Ponzi investments. If you’re not into strategy, you can reliably acquire an unreasonably priced image of a monkey from all good NFT retailers. 
+Crypto provides a smorgasbord of entertaining options for people willing to part with their money. As a crypto investor, you have a standing invite to YOLO into a variety of illiquid, dog-themed tokens using 100x leverage. You can also try your hand at timing the perfect exit from a selection of functionally-identical Ponzi investments. If you’re not into strategy, you can reliably acquire an unreasonably priced image of a monkey from all good NFT retailers. 
 
 The crypto investment game is multi-levelled. In expert mode, you lose the centralised guard rails and interact directly with the blockchain.  This requires constant vigilance. A chatroom stranger sharing an unsolicited link will lead to emptied wallets. An unaudited smart contract is an open challenge to an army of hobbyist hackers. A spike in demand for block space will 100x the cost of any transaction. Robots quite literally battle to front run transactions and sandwich attack trades. 
 
