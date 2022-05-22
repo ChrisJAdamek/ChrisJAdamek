@@ -42,9 +42,9 @@
 
 - [Why DAOs?](https://twitter.com/tracheopteryx/status/1511000392552763399?s=21&t=6T-CG-32b7g-VBnH5RzN4A), @tracheopteryx
  
-- [DAO Design Patterns](https://medium.com/block-science/dao-design-patterns-1193a694fb55)
+- [DAO Design Patterns](https://medium.com/block-science/dao-design-patterns-1193a694fb55), Block Science.
 
-- [Resilience in decentralised socio-technical infrastructure](https://kelsienabben.substack.com/p/towards-a-model-of-resilience-in), Kelsie Nabben.
+- [Decentralised socio-technical infrastructure](https://kelsienabben.substack.com/p/towards-a-model-of-resilience-in), Kelsie Nabben.
 
 - [Marshall Islands DAO Laws](https://banklessdao.substack.com/p/legal-entity-solutions-for-daos-decentralized?s=r)
 
