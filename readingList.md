@@ -84,7 +84,7 @@
 
 
 ## Tutorials/ Reference Texts
-- [Cryptocurrency Class](https://cryptocurrencyclass.github.io)
+- [Cryptocurrency Class](https://cryptocurrencyclass.github.io), Patrick McCorry. 
 
 - [Crypto Lectures](Cryptolectures.io)
 
@@ -95,24 +95,24 @@
 
 ## Foundational
 
-- [Tweet: The EVM Explained (1)](https://twitter.com/noxx3xxon/status/1498012273201360908?s=21)
+- [Tweet: The EVM Explained (1)](https://twitter.com/noxx3xxon/status/1498012273201360908?s=21), @noxx3xxon.
 
-- [Tweet: The EVM Explained (2)](https://twitter.com/bensparks_/status/1513238520575537162?s=21&t=YCknE7QLcrNUUL2MBWIDRQ)
+- [Tweet: The EVM Explained (2)](https://twitter.com/bensparks_/status/1513238520575537162?s=21&t=YCknE7QLcrNUUL2MBWIDRQ), bensparks_.
 
 - [Tweet: Reading Smart Contracts Explained](https://twitter.com/giaset/status/1480684584253542404?s=21), @giaset. 
 
 - [Post: How private keys work](https://shapeshift.com/library/unlocking-the-mysteries-of-private-keys), ShapeShift. 
 
-- [Introduction to Blockchain](https://bitsonblocks.net/2015/09/09/gentle-introduction-blockchain-technology/)
+- [Introduction to Blockchain](https://bitsonblocks.net/2015/09/09/gentle-introduction-blockchain-technology/), BitsOnBlocks.
 
-- [Beginners guide to Crypto](https://twitter.com/tayvano_/status/1509380091184246784?s=21&t=_fY0rl40t5Jq3jz1CHVNHg)
+- [Beginners guide to Crypto](https://twitter.com/tayvano_/status/1509380091184246784?s=21&t=_fY0rl40t5Jq3jz1CHVNHg), @tayvano_.
 
-- [Crypto101 Guidebook](https://cryptocanal.org/wp-content/uploads/2021/12/Crypto-101-Guidebook-.pdf)
+- [Crypto101 Guidebook](https://cryptocanal.org/wp-content/uploads/2021/12/Crypto-101-Guidebook-.pdf), CryptoCanal.
 
 
 ## Regulation
 
-- [Post: Navagating Crypto Regulation](https://calblockchain.mirror.xyz/2jApCnHJElssho7cgZ6YXVVzkFV_AfpXttD_KBhq8TI)
+- [Post: Navagating Crypto Regulation](https://calblockchain.mirror.xyz/2jApCnHJElssho7cgZ6YXVVzkFV_AfpXttD_KBhq8TI), CalBlockchain. 
 
 - Report on MiCA: https://twitter.com/lexpunk_army/status/1522649118312706049?s=21&t=KINS6t20wc2gGHJDpTcdrw
 
