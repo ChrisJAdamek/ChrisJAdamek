@@ -1,4 +1,4 @@
-# 📚 Reading List
+# 📚 My Reading 
 
 ## Stats and Tools
 
