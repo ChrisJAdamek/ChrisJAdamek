@@ -14,7 +14,7 @@
 
 - [Tokenomics 101](https://every.to/almanack/tokenomics-101)
 
-- [Token Technical Dissection](https://github.com/ethereumbook/ethereumbook/blob/develop/10tokens.asciidoc)
+- [Dissecting Tokens Technically](https://github.com/ethereumbook/ethereumbook/blob/develop/10tokens.asciidoc)
 
 - [Tokenomics Reports](https://tokenomicsdao.com/)
 
@@ -96,11 +96,11 @@
 
 - [How do private keys work?](https://shapeshift.com/library/unlocking-the-mysteries-of-private-keys)
 
-- Intro to blockchain: https://bitsonblocks.net/2015/09/09/gentle-introduction-blockchain-technology/
+- [Introduction to Blockchain](https://bitsonblocks.net/2015/09/09/gentle-introduction-blockchain-technology/)
 
-- Beginners guide to everything crypto: https://twitter.com/tayvano_/status/1509380091184246784?s=21&t=_fY0rl40t5Jq3jz1CHVNHg
+- [Beginners guide to Crypto](https://twitter.com/tayvano_/status/1509380091184246784?s=21&t=_fY0rl40t5Jq3jz1CHVNHg)
 
-- Crypto101: https://cryptocanal.org/wp-content/uploads/2021/12/Crypto-101-Guidebook-.pdf
+- [Crypto101 Guidebook](https://cryptocanal.org/wp-content/uploads/2021/12/Crypto-101-Guidebook-.pdf)
 
 
 ## Regulation
