@@ -2,7 +2,7 @@
 
 👨🏻‍💻 I work in crypto policy. This Github account is all about learning crypto.
 
-🧑🏻‍🏫 Check out my [Learnings](/cryptoTools.md).
+🧑🏻‍🏫 Check out my [Learnings](/ChrisJAdamek/cryptoTools.md).
 
 📚 Check out my [Readings](/readingList.md). 
 
