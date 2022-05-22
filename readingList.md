@@ -2,80 +2,83 @@
 
 ## Stats and Tools
 
-- [ERC-20 TVL (Ethereum)](https://ultrasound.money)
+- [Resource: ERC-20 TVL (Ethereum)](https://ultrasound.money)
 
-- [Beacon Chain](https://twitter.com/superphiz/status/1512770843285327875?s=21&t=RMgFuOl3LvGBK1rwFC_51Q)
+- [Resource: Beacon Chain](https://twitter.com/superphiz/status/1512770843285327875?s=21&t=RMgFuOl3LvGBK1rwFC_51Q)
 
-- [Ethereum Nodes](https://www.ethernodes.org)
+- [Resource: Ethereum Nodes](https://www.ethernodes.org)
 
 
 ## Tokens
-- [Submission in Response to MiCA Proposal](https://github.com/LeXpunK-Army/MiCA-GUIDANCE/blob/main/LexPunkMiCAReport.pdf), LexPunk Army. 
+- [Submission: Response to MiCA Proposal](https://github.com/LeXpunK-Army/MiCA-GUIDANCE/blob/main/LexPunkMiCAReport.pdf), LexPunk Army. 
 
 - [Tokenomics 101](https://every.to/almanack/tokenomics-101)
 
-- [Book Chapter on Technical Tokens Dissection](https://github.com/ethereumbook/ethereumbook/blob/develop/10tokens.asciidoc)
+- [Book (Chapter): Technical Tokens Dissection](https://github.com/ethereumbook/ethereumbook/blob/develop/10tokens.asciidoc)
 
-- [Resource on Tokenomics Reports](https://tokenomicsdao.com/), TokenomicsDAO. 
+- [Resource: Tokenomics Reports](https://tokenomicsdao.com/), TokenomicsDAO. 
 
-- [Post on Token Engineering and Classification](https://ahitchhikers.substack.com/p/how-can-we-understand-and-classify)
+- [Post: Token Engineering and Classification](https://ahitchhikers.substack.com/p/how-can-we-understand-and-classify)
 
-- [Paper on Crypto Asset Taxonomy](https://www.researchgate.net/publication/342262387_Proposal_for_a_Comprehensive_Crypto_Asset_Taxonomy)
+- [Paper: Crypto Asset Taxonomy](https://www.researchgate.net/publication/342262387_Proposal_for_a_Comprehensive_Crypto_Asset_Taxonomy)
 
-- [Post on Algo stables](https://twitter.com/ben_chain/status/1524065802772787201?s=21&t=jJI5k159T7uIvAwzDx6w2g), @ben_chan.
+- [Post: Algo stables](https://twitter.com/ben_chain/status/1524065802772787201?s=21&t=jJI5k159T7uIvAwzDx6w2g), @ben_chan.
 
-- [Stablecoins and Consumer Protection](https://lexdao.substack.com/p/stable-act-a-legal-engineers-perspective?s=r), LexDAO.
+- [Post: Stablecoins and Consumer Protection](https://lexdao.substack.com/p/stable-act-a-legal-engineers-perspective?s=r), LexDAO.
 
-- [Paper on comparing legal title to tokens](https://doi.org/10.1007/978-3-662-58820-8_23), Alex Konashevych.
+- [Paper: Comparing legal title to tokens](https://doi.org/10.1007/978-3-662-58820-8_23), Alex Konashevych.
 
 
 ## MEV
 
-- [Sandwich Attacks Explained](https://twitter.com/0x_beans/status/1505181554351378439?s=21)
+- [Tweet: Sandwich Attacks Explained](https://twitter.com/0x_beans/status/1505181554351378439?s=21)
 
-- [Rugpull Investigations Explained](https://twitter.com/exlawyernft/status/1507194315675643925?s=21)
+- [Resource: MEV Presentations](https://flashbots.notion.site/flashbots/mev-day-836f88806995412dabc1c7bb7ce4e830), Flashbots.
 
-- [Resources on MEV](https://flashbots.notion.site/flashbots/mev-day-836f88806995412dabc1c7bb7ce4e830), Flashbots.
-
-- [Slides on the Threat of MEV Centralisation](https://docs.google.com/presentation/d/10I5nDokdO_KR94way-QfcD8ucroOLkHczSMOBWUMYME/edit#slide=id.p), Flashbots.  
+- [Slides: Threat of MEV Centralisation](https://docs.google.com/presentation/d/10I5nDokdO_KR94way-QfcD8ucroOLkHczSMOBWUMYME/edit#slide=id.p), Flashbots.  
 
 
 ## DAOs
 
-- [Why DAOs? Explained](https://twitter.com/tracheopteryx/status/1511000392552763399?s=21&t=6T-CG-32b7g-VBnH5RzN4A), @tracheopteryx
+- [Tweet: Why DAOs? Explained](https://twitter.com/tracheopteryx/status/1511000392552763399?s=21&t=6T-CG-32b7g-VBnH5RzN4A), @tracheopteryx
  
-- [Post on DAO Design Patterns](https://medium.com/block-science/dao-design-patterns-1193a694fb55), Block Science.
+- [Post: DAO Design Patterns](https://medium.com/block-science/dao-design-patterns-1193a694fb55), Block Science.
 
-- [Paper on Blockchain-Based Governing](https://www.researchgate.net/profile/Yousef-Forti-2/publication/317638956_A_New_Model_for_E-Government_in_Local_Level_Administrations/links/5945306fa6fdccb93ab86fe6/A-New-Model-for-E-Government-in-Local-Level-Administrations.pdf#page=96), Alex Konashevych.
+- [Paper: Blockchain-Based Governing](https://www.researchgate.net/profile/Yousef-Forti-2/publication/317638956_A_New_Model_for_E-Government_in_Local_Level_Administrations/links/5945306fa6fdccb93ab86fe6/A-New-Model-for-E-Government-in-Local-Level-Administrations.pdf#page=96), Alex Konashevych.
 
-- [Paper on Decentralised socio-technical infrastructure](https://kelsienabben.substack.com/p/towards-a-model-of-resilience-in), Kelsie Nabben.
+- [Paper: Decentralised socio-technical infrastructure](https://kelsienabben.substack.com/p/towards-a-model-of-resilience-in), Kelsie Nabben.
 
-- [Post on Marshall Islands DAO Laws](https://banklessdao.substack.com/p/legal-entity-solutions-for-daos-decentralized?s=r)
+- [Post: Marshall Islands DAO Laws](https://banklessdao.substack.com/p/legal-entity-solutions-for-daos-decentralized?s=r)
 
-- [Wyoming vs Tenedero DAOs Explained](https://twitter.com/jordanteague/status/1512074309346332674?s=21&t=B39F463eL-n-hOiRfTDGmQ)
+- [Tweet: Wyoming vs Tenedero DAOs Explained](https://twitter.com/jordanteague/status/1512074309346332674?s=21&t=B39F463eL-n-hOiRfTDGmQ)
 
-- [Article on why should DAOs incorporate?](https://thedefiant.io/daos-unlimited-liability-risks/)
+- [Article: Why DAOs should incorporate](https://thedefiant.io/daos-unlimited-liability-risks/)
 
 - [Why DAOs need legal personality](https://unchainedpodcast.com/can-a-dao-go-to-court-according-to-two-dao-legal-experts-probably/)
 
-- [Article on DAO Regulation in Australia](https://cointelegraph.com/news/dao-regulation-in-australia-issues-and-solutions-part-1)
+- [Article: DAO Regulation in Australia](https://cointelegraph.com/news/dao-regulation-in-australia-issues-and-solutions-part-1)
 
-- [Resource on DAO Participant Legal Defence](), LexPunk Army (*DAO Problems and Solutions*)
+- [Resource: DAO Participant Legal Defence](), LexPunk Army (*DAO Problems and Solutions*)
 
-- [Post on Mapping DAO Governance Vulnerabilities](https://kelsienabben.substack.com/p/dao-vulnerabilities-a-multi-scale)
+- [Post: Mapping DAO Governance Vulnerabilities](https://kelsienabben.substack.com/p/dao-vulnerabilities-a-multi-scale)
 
-- [Post on trying not to fail at DAOs](https://kelsienabben.substack.com/p/experiments-in-algorithmic-governance)
+- [Post: Trying not to fail at DAOs](https://kelsienabben.substack.com/p/experiments-in-algorithmic-governance), Kelsie Nabben.
 
 - VendingMachineDAO: https://scholarspace.manoa.hawaii.edu/bitstream/10125/80072/0588.pdf
 
 
+## Scams and Exploits
+
+- [Tweet: Rugpull Investigations Explained](https://twitter.com/exlawyernft/status/1507194315675643925?s=21), @exlawyernft. 
+
+
 ## Zero Knowledge Protocols
          
-- [zk STARKS Explained](https://twitter.com/liamzebedee/status/1515985033856974851?s=21&t=kVDH-P-3pLilutH5iQAzeA)
+- [Tweet: zk STARKS Explained](https://twitter.com/liamzebedee/status/1515985033856974851?s=21&t=kVDH-P-3pLilutH5iQAzeA)
 
-- [zk Proofs Explained](https://twitter.com/odin_free/status/1501914340986871813?s=21&t=kVDH-P-3pLilutH5iQAzeA)
+- [Tweet: zk Proofs Explained](https://twitter.com/odin_free/status/1501914340986871813?s=21&t=kVDH-P-3pLilutH5iQAzeA)
 
-- [Roll-up Types Explained]: https://twitter.com/pseudotheos/status/1514242023171125249?s=21&t=ohcaoUjCc02tZK2l_0WhFA
+- [Tweet: Roll-up Types Explained]: https://twitter.com/pseudotheos/status/1514242023171125249?s=21&t=ohcaoUjCc02tZK2l_0WhFA
 
 - Code Free StarkWare. https://twitter.com/guthl/status/1516118194947244053?s=21&t=kTf7ZAimgMvzYp8SJPGDww
 
@@ -92,13 +95,13 @@
 
 ## Foundational
 
-- [The EVM Explained (Pt.1)](https://twitter.com/noxx3xxon/status/1498012273201360908?s=21)
+- [Tweet: The EVM Explained (Pt.1)](https://twitter.com/noxx3xxon/status/1498012273201360908?s=21)
 
-- [The EVM Explained (Pt.2)](https://twitter.com/bensparks_/status/1513238520575537162?s=21&t=YCknE7QLcrNUUL2MBWIDRQ)
+- [Tweet: The EVM Explained (Pt.2)](https://twitter.com/bensparks_/status/1513238520575537162?s=21&t=YCknE7QLcrNUUL2MBWIDRQ)
 
-- [Reading Smart Contracts Explained](https://twitter.com/giaset/status/1480684584253542404?s=21)
+- [Tweet: Reading Smart Contracts Explained](https://twitter.com/giaset/status/1480684584253542404?s=21)
 
-- [Post on how private keys](https://shapeshift.com/library/unlocking-the-mysteries-of-private-keys)
+- [Post: How private keys work](https://shapeshift.com/library/unlocking-the-mysteries-of-private-keys)
 
 - [Introduction to Blockchain](https://bitsonblocks.net/2015/09/09/gentle-introduction-blockchain-technology/)
 
@@ -113,9 +116,9 @@
 
 - Report on MiCA: https://twitter.com/lexpunk_army/status/1522649118312706049?s=21&t=KINS6t20wc2gGHJDpTcdrw
 
-- [Book on Reinventing Financial Regulation](), Avinash Persaud.
+- [Book: Reinventing Financial Regulation](), Avinash Persaud.
 
-- [Policy Maker Toolkit for DeFi](https://www3.weforum.org/docs/WEF_DeFi_Policy_Maker_Toolkit_2021.pdf), World Economic Forum. 
+- [Resource: Policy Maker Toolkit for DeFi](https://www3.weforum.org/docs/WEF_DeFi_Policy_Maker_Toolkit_2021.pdf), World Economic Forum. 
 
 
 ## Other
