@@ -1,4 +1,4 @@
-I work in Crypto Policy. This Github is about helping me and others gain a deep understanding crypto. 
+I work on crypto policy. This Github is about helping me and others gain a deep understanding of the crypto space. 
 
 💻 My [Projects](/projectsList.md).
 
