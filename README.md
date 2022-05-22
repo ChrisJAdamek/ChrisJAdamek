@@ -1,12 +1,12 @@
 👋 Hi, I’m Chris.  
 
-👨🏻‍💻 I work in crypto policy.
+👨🏻‍💻 I work in crypto policy. This Github account is all about learning crypto.
 
-📓 I'm not a dev. This Github account is all about learning and teaching. 
+🧑🏻‍🏫 Check out my [Learnings](/cryptoTools.md).
 
-📚 Check out my [Reading List](/readingList.md). 
+📚 Check out my [Readings](/readingList.md). 
 
-📝 Check out my [Writing](/writingList.md).
+📝 Check out my [Writings](/writingList.md).
 
 💻 I'm @chrisjadamek on Twitter and LinkedIn. 
 
