@@ -22,9 +22,11 @@
 
 - [Crypto Asset Taxonomy](https://www.researchgate.net/publication/342262387_Proposal_for_a_Comprehensive_Crypto_Asset_Taxonomy)
 
-- Don’t start an Algo stable: https://twitter.com/ben_chain/status/1524065802772787201?s=21&t=jJI5k159T7uIvAwzDx6w2g
+- [Don’t start an Algo stable](https://twitter.com/ben_chain/status/1524065802772787201?s=21&t=jJI5k159T7uIvAwzDx6w2g)
 
 - [Stablecoins and Consumer Protection](https://lexdao.substack.com/p/stable-act-a-legal-engineers-perspective?s=r)
+
+- [Comparing legal title to tokens](https://doi.org/10.1007/978-3-662-58820-8_23), Alex Konashevych.
 
 
 ## MEV
@@ -43,6 +45,8 @@
 - [Why DAOs?](https://twitter.com/tracheopteryx/status/1511000392552763399?s=21&t=6T-CG-32b7g-VBnH5RzN4A), @tracheopteryx
  
 - [DAO Design Patterns](https://medium.com/block-science/dao-design-patterns-1193a694fb55), Block Science.
+
+- [The Concept of the Blockchain-Based Governing](https://www.researchgate.net/profile/Yousef-Forti-2/publication/317638956_A_New_Model_for_E-Government_in_Local_Level_Administrations/links/5945306fa6fdccb93ab86fe6/A-New-Model-for-E-Government-in-Local-Level-Administrations.pdf#page=96), Alex Konashevych.
 
 - [Decentralised socio-technical infrastructure](https://kelsienabben.substack.com/p/towards-a-model-of-resilience-in), Kelsie Nabben.
 
