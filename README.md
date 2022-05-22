@@ -8,6 +8,6 @@
 
 📝 Check out my [Writings](/writingList.md).
 
-💻 I'm @chrisjadamek on Twitter and LinkedIn. 
+💻 I'm @chrisjadamek on [Twitter](https://www.linkedin.com/in/chrisjadamek/) and LinkedIn. 
 
 
