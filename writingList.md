@@ -1,5 +1,5 @@
 
-# 📓 My Writings 
+# 📓 Writings List
 
 ## 
 - 
