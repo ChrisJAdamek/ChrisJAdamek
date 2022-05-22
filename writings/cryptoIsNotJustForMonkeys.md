@@ -1,5 +1,7 @@
 ## Crypto is Not Just for Monkeys
 
+*DRAFT*
+
 Crypto provides a smorgasbord of options for people willing to part with their money. As a crypto investor, you have a standing invitation to YOLO into a variety of illiquid, dog-themed tokens at 100x leverage. You can also try your hand at timing the perfect exit from a selection of functionally-identical Ponzi-game investments.  If you’re not into strategy, you can reliably acquire an unreasonably priced image of a monkey from all good NFT retailers. 
 
 There's more. The crypto investment game is multi-levelled. In expert mode, you lose the guard rails provided by centralised intermediaries. You interact directly with the blockchain and must observe constant vigilance. A chatroom stranger sharing an unsolicited link will lead to empty wallets and lost monkeys. An unaudited piece of code will be seen an open challenge to an army of hobbyist hackers. A spike in demand for block space will 50x the cost of any transaction. And robots will quite literally battle to front run transactions and sandwich attack trades. 
