@@ -12,13 +12,11 @@
 ## Tokens
 - [LexPunk Response to MiCA Proposal](https://github.com/LeXpunK-Army/MiCA-GUIDANCE/blob/main/LexPunkMiCAReport.pdf), LexPunk, May 2022, Github. 
 
-- Example tokenomics report: https://medium.com/bankless-dao/tokenomics-101-banklessdao-821063ad28f2
-
 - [Tokenomics 101](https://every.to/almanack/tokenomics-101)
 
-- [Token Technical Dissection](https://github.com/ethereumbook/ethereumbook/blob/develop/10tokens.asciidoc 
+- [Token Technical Dissection](https://github.com/ethereumbook/ethereumbook/blob/develop/10tokens.asciidoc)
 
-- [TokenomicsDAO - Token Reports](https://tokenomicsdao.com/)
+- [Tokenomics Reports](https://tokenomicsdao.com/)
 
 - [Token Engineering and Classification](https://ahitchhikers.substack.com/p/how-can-we-understand-and-classify)
 
@@ -37,7 +35,7 @@
 
 - [Flashbots Presentation Resources](https://flashbots.notion.site/flashbots/mev-day-836f88806995412dabc1c7bb7ce4e830)
 
-- [The threat of MEV Centralisation](https://docs.google.com/presentation/d/10I5nDokdO_KR94way-QfcD8ucroOLkHczSMOBWUMYME/edit#slide=id.p), Flashbot Slides  
+- [The Threat of MEV Centralisation](https://docs.google.com/presentation/d/10I5nDokdO_KR94way-QfcD8ucroOLkHczSMOBWUMYME/edit#slide=id.p), Flashbot Slides  
 
 
 ## DAOs
@@ -46,11 +44,11 @@
  
 - [DAO Design Patterns](https://medium.com/block-science/dao-design-patterns-1193a694fb55)
 
-- Marshall Islands DAO Laws: https://banklessdao.substack.com/p/legal-entity-solutions-for-daos-decentralized?s=r
+- [Marshall Islands DAO Laws](https://banklessdao.substack.com/p/legal-entity-solutions-for-daos-decentralized?s=r)
 
 - Wyoming vs Tenedero DAOs: https://twitter.com/jordanteague/status/1512074309346332674?s=21&t=B39F463eL-n-hOiRfTDGmQ
 
-- Why DAOs should incorporate: https://thedefiant.io/daos-unlimited-liability-risks/
+- [Why should DAOs incorporate?](https://thedefiant.io/daos-unlimited-liability-risks/)
 
 - [Why DAOs need legal personality](https://unchainedpodcast.com/can-a-dao-go-to-court-according-to-two-dao-legal-experts-probably/)
 
@@ -58,7 +56,7 @@
 
 - [LexPunk DAO Legal Defence Protocol, v1]() (*DAO Problems and Solutions*)
 
-- DAO Governance Vulnerability Mapping: https://kelsienabben.substack.com/p/dao-vulnerabilities-a-multi-scale
+- [Mapping DAO Governance Vulnerabilities](https://kelsienabben.substack.com/p/dao-vulnerabilities-a-multi-scale)
 
 - Trying not to fail at Decentralised Autonomous Organisations: https://kelsienabben.substack.com/p/experiments-in-algorithmic-governance
 
@@ -67,23 +65,23 @@
 
 ## Zero Knowledge Protocols
          
-- How zk STARKS work: https://twitter.com/liamzebedee/status/1515985033856974851?s=21&t=kVDH-P-3pLilutH5iQAzeA
+- [How do zk STARKS work](https://twitter.com/liamzebedee/status/1515985033856974851?s=21&t=kVDH-P-3pLilutH5iQAzeA)
 
-- What is a zero knowledge proof? : https://twitter.com/odin_free/status/1501914340986871813?s=21&t=kVDH-P-3pLilutH5iQAzeA
-
-- StarkNet Tutorials: https://twitter.com/henrilieutaud/status/1514875761685151755?s=21&t=kVDH-P-3pLilutH5iQAzeA
+- [What is a zk proof?](https://twitter.com/odin_free/status/1501914340986871813?s=21&t=kVDH-P-3pLilutH5iQAzeA)
 
 - Types of roll ups: https://twitter.com/pseudotheos/status/1514242023171125249?s=21&t=ohcaoUjCc02tZK2l_0WhFA
 
 - Code Free StarkWare. https://twitter.com/guthl/status/1516118194947244053?s=21&t=kTf7ZAimgMvzYp8SJPGDww
 
 
-## Tutorials
+## Tutorials/ Reference Texts
 - [Cryptocurrency Class](https://cryptocurrencyclass.github.io)
 
 - [Crypto Lectures](Cryptolectures.io)
 
-- Ethereum https://github.com/ethereumbook/ethereumbook
+- [Ethereum Book](https://github.com/ethereumbook/ethereumbook)
+
+- [StarkNet Tutorials](https://twitter.com/henrilieutaud/status/1514875761685151755?s=21&t=kVDH-P-3pLilutH5iQAzeA)
 
 
 ## Foundational
@@ -92,13 +90,14 @@
 
 - Understanding the EVM 2: https://twitter.com/bensparks_/status/1513238520575537162?s=21&t=YCknE7QLcrNUUL2MBWIDRQ
 
-- How private keys work: https://shapeshift.com/library/unlocking-the-mysteries-of-private-keys
+- [How do private keys work?](https://shapeshift.com/library/unlocking-the-mysteries-of-private-keys)
 
 - Intro to blockchain: https://bitsonblocks.net/2015/09/09/gentle-introduction-blockchain-technology/
 
 - Beginners guide to everything crypto: https://twitter.com/tayvano_/status/1509380091184246784?s=21&t=_fY0rl40t5Jq3jz1CHVNHg
 
 - Crypto101: https://cryptocanal.org/wp-content/uploads/2021/12/Crypto-101-Guidebook-.pdf
+
 
 ## Regulation
 
@@ -109,9 +108,6 @@
 - reinventing financial regulation: Persaud, Avinash 
 
 - WEF Policy Maker Toolkit for DeFi: https://www3.weforum.org/docs/WEF_DeFi_Policy_Maker_Toolkit_2021.pdf
-
-## Books 
-
 
 
 ## Other
