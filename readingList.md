@@ -72,6 +72,11 @@
 - Tweet: [Rugpull Investigations Explained](https://twitter.com/exlawyernft/status/1507194315675643925?s=21), @exlawyernft. 
 
 
+## Cryptoeconomics
+
+- https://marginalrevolution.com/wp-content/uploads/2022/05/Cryptoeconomics-Modern-Principles.pdf
+
+
 ## Zero Knowledge Protocols
          
 - Tweet: [zk STARKS Explained](https://twitter.com/liamzebedee/status/1515985033856974851?s=21&t=kVDH-P-3pLilutH5iQAzeA), @liamzebedee.
