@@ -1,10 +1,10 @@
-I work in Crypto Policy. This Github is all about gaining a deep understanding crypto. 
+I work in Crypto Policy. This Github is about helping me and others gain a deep understanding crypto. 
 
-💻 Check out my [Projects](/projectsList.md).
+💻 My [Projects](/projectsList.md).
 
-📚 Check out my [Readings](/readingList.md). 
+📚 My [Readings](/readingList.md). 
 
-📓 Check out my [Writings](/writingList.md).
+📓 My [Writings](/writingList.md).
 
 DMs to @chrisjadamek on [Twitter](https://twitter.com/ChrisJAdamek) and [LinkedIn](https://www.linkedin.com/in/chrisjadamek/). 
 
