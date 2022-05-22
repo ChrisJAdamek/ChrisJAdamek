@@ -14,19 +14,19 @@
 
 - Example tokenomics report: https://medium.com/bankless-dao/tokenomics-101-banklessdao-821063ad28f2
 
-- Tokenomics 101: https://every.to/almanack/tokenomics-101
+- [Tokenomics 101](https://every.to/almanack/tokenomics-101)
 
-- Best technical description of tokens ever: https://github.com/ethereumbook/ethereumbook/blob/develop/10tokens.asciidoc 
+- [Token Technical Dissection](https://github.com/ethereumbook/ethereumbook/blob/develop/10tokens.asciidoc 
 
-- TokenomicsDAO reports: https://tokenomicsdao.com/
+- [TokenomicsDAO - Token Reports](https://tokenomicsdao.com/)
 
-- Token Engineering: https://ahitchhikers.substack.com/p/how-can-we-understand-and-classify
+- [Token Engineering and Classification](https://ahitchhikers.substack.com/p/how-can-we-understand-and-classify)
 
-- Example taxonomy: https://www.researchgate.net/publication/342262387_Proposal_for_a_Comprehensive_Crypto_Asset_Taxonomy
+- [Crypto Asset Taxonomy](https://www.researchgate.net/publication/342262387_Proposal_for_a_Comprehensive_Crypto_Asset_Taxonomy)
 
 - Don’t start an Algo stable: https://twitter.com/ben_chain/status/1524065802772787201?s=21&t=jJI5k159T7uIvAwzDx6w2g
 
-- Consumer protection differences between centralised stables and decentralised stables: https://lexdao.substack.com/p/stable-act-a-legal-engineers-perspective?s=r
+- [Stablecoins and Consumer Protection](https://lexdao.substack.com/p/stable-act-a-legal-engineers-perspective?s=r)
 
 
 ## MEV
@@ -44,7 +44,7 @@
 
 - Why DAOs? https://twitter.com/tracheopteryx/status/1511000392552763399?s=21&t=6T-CG-32b7g-VBnH5RzN4A
  
-- DAO design patterns: https://medium.com/block-science/dao-design-patterns-1193a694fb55
+- [DAO Design Patterns](https://medium.com/block-science/dao-design-patterns-1193a694fb55)
 
 - Marshall Islands DAO Laws: https://banklessdao.substack.com/p/legal-entity-solutions-for-daos-decentralized?s=r
 
@@ -54,9 +54,9 @@
 
 - [Why DAOs need legal personality](https://unchainedpodcast.com/can-a-dao-go-to-court-according-to-two-dao-legal-experts-probably/)
 
-- DAO regulation Australia: https://cointelegraph.com/news/dao-regulation-in-australia-issues-and-solutions-part-1
+- [DAO Regulation in Australia](https://cointelegraph.com/news/dao-regulation-in-australia-issues-and-solutions-part-1)
 
-- LexPunk Legal Defence Protocol, LexPunk Army v1 (*DAO Problems and Solutions*)
+- [LexPunk DAO Legal Defence Protocol, v1]() (*DAO Problems and Solutions*)
 
 - DAO Governance Vulnerability Mapping: https://kelsienabben.substack.com/p/dao-vulnerabilities-a-multi-scale
 
