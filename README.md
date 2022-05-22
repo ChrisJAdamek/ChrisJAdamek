@@ -6,7 +6,7 @@
 
 📚 Check out my [Readings](/readingList.md). 
 
-📝 Check out my [Writings](/writingList.md).
+📓 Check out my [Writings](/writingList.md).
 
 🤝🏻 I'm @chrisjadamek on [Twitter](https://twitter.com/ChrisJAdamek) and [LinkedIn](https://www.linkedin.com/in/chrisjadamek/). 
 
