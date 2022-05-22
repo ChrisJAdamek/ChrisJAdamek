@@ -1,6 +1,6 @@
-👋 Hi, I’m Chris.  
+👋 Hi, I’m Chris. I work in Crypto Policy. 
 
-👨🏻‍💻 I work in crypto policy. This Github account is all about learning crypto.
+👨🏻‍💻 This Github account is all about crypto learning.
 
 🧑🏻‍🏫 Check out my [Learnings](https://github.com/ChrisJAdamek/cryptoTools).
 
