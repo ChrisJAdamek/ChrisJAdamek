@@ -2,7 +2,7 @@
 
 ## Stats and Tools
 
-- [TVL of ERC-20s on Ethereum](https://ultrasound.money)
+- [ERC-20 TVL (Ethereum)](https://ultrasound.money)
 
 - [Beacon Chain](https://twitter.com/superphiz/status/1512770843285327875?s=21&t=RMgFuOl3LvGBK1rwFC_51Q)
 
@@ -16,7 +16,7 @@
 
 - Tokenomics 101: https://every.to/almanack/tokenomics-101
 
-- Best technical description of tokens ever: https://github.com/ethereumbook/ethereumbook/blob/develop/10tokens.asciidoc whole book: https://github.com/ethereumbook/ethereumbook
+- Best technical description of tokens ever: https://github.com/ethereumbook/ethereumbook/blob/develop/10tokens.asciidoc 
 
 - TokenomicsDAO reports: https://tokenomicsdao.com/
 
@@ -28,19 +28,17 @@
 
 - Consumer protection differences between centralised stables and decentralised stables: https://lexdao.substack.com/p/stable-act-a-legal-engineers-perspective?s=r
 
+
 ## MEV
 
 - What is a sandwich attack: https://twitter.com/0x_beans/status/1505181554351378439?s=21
 
 - [Explaining rugpull investigations](https://twitter.com/exlawyernft/status/1507194315675643925?s=21)
 
-- Understanding EVM https://twitter.com/noxx3xxon/status/1498012273201360908?s=21
-
-- Understanding EVM 2: https://twitter.com/bensparks_/status/1513238520575537162?s=21&t=YCknE7QLcrNUUL2MBWIDRQ
-
 - [Flashbots Presentation Resources](https://flashbots.notion.site/flashbots/mev-day-836f88806995412dabc1c7bb7ce4e830)
 
 - [The threat of MEV Centralisation](https://docs.google.com/presentation/d/10I5nDokdO_KR94way-QfcD8ucroOLkHczSMOBWUMYME/edit#slide=id.p), Flashbot Slides  
+
 
 ## DAOs
 
@@ -67,10 +65,6 @@
 - VendingMachineDAO: https://scholarspace.manoa.hawaii.edu/bitstream/10125/80072/0588.pdf
 
 
-
-
-
-
 ## Zero Knowledge Protocols
          
 - How zk STARKS work: https://twitter.com/liamzebedee/status/1515985033856974851?s=21&t=kVDH-P-3pLilutH5iQAzeA
@@ -84,76 +78,75 @@
 - Code Free StarkWare. https://twitter.com/guthl/status/1516118194947244053?s=21&t=kTf7ZAimgMvzYp8SJPGDww
 
 
-Lido Vulnerability Assessment: https://medium.com/block-science/dao-vulnerabilities-a-map-of-lido-governance-risks-opportunities-92bc6384ff68
+## Tutorials
+- [Cryptocurrency Class](https://cryptocurrencyclass.github.io)
 
-Towards a model of resilience in decentralised socio-technical infrastructure: https://kelsienabben.substack.com/p/towards-a-model-of-resilience-in
+- [Crypto Lectures](Cryptolectures.io)
 
-
-
-Great technical crypto resources: https://cryptocurrencyclass.github.io
-
-Book: reinventing financial regulation: Persaud, Avinash 
+- Ethereum https://github.com/ethereumbook/ethereumbook
 
 
+## Foundational
 
+- Understanding the EVM https://twitter.com/noxx3xxon/status/1498012273201360908?s=21
 
+- Understanding the EVM 2: https://twitter.com/bensparks_/status/1513238520575537162?s=21&t=YCknE7QLcrNUUL2MBWIDRQ
 
+- How private keys work: https://shapeshift.com/library/unlocking-the-mysteries-of-private-keys
 
+- Intro to blockchain: https://bitsonblocks.net/2015/09/09/gentle-introduction-blockchain-technology/
 
-EthDAY: https://ef-events.notion.site/ETHconomics-Devconnect-676d73f791684e18bfae35bbc9e1fa90
+- Beginners guide to everything crypto: https://twitter.com/tayvano_/status/1509380091184246784?s=21&t=_fY0rl40t5Jq3jz1CHVNHg
 
-Crypto101: https://cryptocanal.org/wp-content/uploads/2021/12/Crypto-101-Guidebook-.pdf
+- Crypto101: https://cryptocanal.org/wp-content/uploads/2021/12/Crypto-101-Guidebook-.pdf
 
+## Regulation
 
+- Navagating Crypto Regulation: https://calblockchain.mirror.xyz/2jApCnHJElssho7cgZ6YXVVzkFV_AfpXttD_KBhq8TI
 
-[Lex Cryptographa: Decentralised Blockchain Technology and the Rise of Lex Cryptographi](https://deliverypdf.ssrn.com/delivery.php?ID=103001127120086069090073119091074064054034061037083025066004086010002124023064009120098060061014119026053121091072083096083126041004031050048093066006094096100028098042059073027083006102065001023088086123117024096003118126076028010012097101112015093082&EXT=pdf&INDEX=TRUE), Aaron Wright* & Primavera De Filippi**
+- Report on MiCA: https://twitter.com/lexpunk_army/status/1522649118312706049?s=21&t=KINS6t20wc2gGHJDpTcdrw
 
-Intro to blockchain: https://bitsonblocks.net/2015/09/09/gentle-introduction-blockchain-technology/
+- reinventing financial regulation: Persaud, Avinash 
 
-Beginners guide to everything crypto: https://twitter.com/tayvano_/status/1509380091184246784?s=21&t=_fY0rl40t5Jq3jz1CHVNHg
+- WEF Policy Maker Toolkit for DeFi: https://www3.weforum.org/docs/WEF_DeFi_Policy_Maker_Toolkit_2021.pdf
 
+## Books 
 
-
-Cryptolectures.io
-
-WEF Policy Maker Toolkit for DeFi: https://www3.weforum.org/docs/WEF_DeFi_Policy_Maker_Toolkit_2021.pdf
-
-
-
-DeFI beyond the hype: https://wifpr.wharton.upenn.edu/wp-content/uploads/2021/05/DeFi-Beyond-the-Hype.pdf
-
-Transparency exists, we just need more data and analysts: https://www.coindesk.com/tech/2021/04/13/defi-is-transparent-unless-you-look-closely/
-
-different bridges: https://twitter.com/0xrainandcoffee/status/1522125029601067008?s=21&t=LSkyCo8sbqV2zCoAOwivMg
-
-NFT metadata: https://medium.com/quick-programming/metadata-in-nft-smart-contracts-42006ff7501e
-
-
-
-Report on MiCA: https://twitter.com/lexpunk_army/status/1522649118312706049?s=21&t=KINS6t20wc2gGHJDpTcdrw
-
-https://api.opensea.io/asset/0x65Ca0279318e34894aD9E87d7387fe7075D7E980/2/validate/ 
-
-
-
-
-
-
-
-
-Navagating Crypto Regulation: https://calblockchain.mirror.xyz/2jApCnHJElssho7cgZ6YXVVzkFV_AfpXttD_KBhq8TI
 
 
 ## Other
-- Consensus Economics.
+
 - Building a Twitter following: https://twitter.com/thedefiedge/status/1511009241699549191?s=21&t=Lt6DlSMyX_nMB4Ivb6Sdzw
+
 - How to read a smart contract: https://twitter.com/giaset/status/1480684584253542404?s=21
+
 - Trustless not decentralised: https://hackernoon.com/decentralized-and-trustless-networks-f881671fae4e
 
-Trustless not decentralised: https://hackernoon.com/decentralized-data-why-blockchain-is-meaningless-and-trustless-is-everything-318fd14d3827
+- Trustless not decentralised: https://hackernoon.com/decentralized-data-why-blockchain-is-meaningless-and-trustless-is-everything-318fd14d3827
 
-Trustless not decentralised: https://medium.com/coinbundle/decentralized-networks-1d5e2e92953b
+- Trustless not decentralised: https://medium.com/coinbundle/decentralized-networks-1d5e2e92953b
 
-How private keys work: https://shapeshift.com/library/unlocking-the-mysteries-of-private-keys
+- Lido Vulnerability Assessment: https://medium.com/block-science/dao-vulnerabilities-a-map-of-lido-governance-risks-opportunities-92bc6384ff68
 
-Crypto Reading List: https://mycelium-eth.notion.site/Reading-writing-listening-thinking-5a7ba815879e42628fd94279d6486b8b
+- Towards a model of resilience in decentralised socio-technical infrastructure: https://kelsienabben.substack.com/p/towards-a-model-of-resilience-in
+
+- Crypto Reading List: https://mycelium-eth.notion.site/Reading-writing-listening-thinking-5a7ba815879e42628fd94279d6486b8b
+
+- NFT metadata: https://medium.com/quick-programming/metadata-in-nft-smart-contracts-42006ff7501e
+
+- DeFI beyond the hype: https://wifpr.wharton.upenn.edu/wp-content/uploads/2021/05/DeFi-Beyond-the-Hype.pdf
+
+- Transparency exists, we just need more data and analysts: https://www.coindesk.com/tech/2021/04/13/defi-is-transparent-unless-you-look-closely/
+
+- different bridges: https://twitter.com/0xrainandcoffee/status/1522125029601067008?s=21&t=LSkyCo8sbqV2zCoAOwivMg
+
+- https://api.opensea.io/asset/0x65Ca0279318e34894aD9E87d7387fe7075D7E980/2/validate/ 
+
+- EthDAY: https://ef-events.notion.site/ETHconomics-Devconnect-676d73f791684e18bfae35bbc9e1fa90
+
+- Consensus Economics.
+
+- [Lex Cryptographa: Decentralised Blockchain Technology and the Rise of Lex Cryptographi](https://deliverypdf.ssrn.com/delivery.php?ID=103001127120086069090073119091074064054034061037083025066004086010002124023064009120098060061014119026053121091072083096083126041004031050048093066006094096100028098042059073027083006102065001023088086123117024096003118126076028010012097101112015093082&EXT=pdf&INDEX=TRUE), Aaron Wright & Primavera De Filippi
+
+
+
