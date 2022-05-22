@@ -10,7 +10,7 @@
 
 
 ## Tokens
-- [Report on Significant Aspects of the Proposal for the European Parliament to Pass a Regulation on Markets in Crypto-Assets (MiCA) and Amend the Directive (EU) 2019/1937)](https://github.com/LeXpunK-Army/MiCA-GUIDANCE/blob/main/LexPunkMiCAReport.pdf), LexPunk, May 2022, Github. 
+- [LexPunk Response to MiCA Proposal](https://github.com/LeXpunK-Army/MiCA-GUIDANCE/blob/main/LexPunkMiCAReport.pdf), LexPunk, May 2022, Github. 
 
 - Example tokenomics report: https://medium.com/bankless-dao/tokenomics-101-banklessdao-821063ad28f2
 
