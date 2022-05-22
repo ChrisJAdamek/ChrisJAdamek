@@ -14,13 +14,13 @@
 
 - [Tokenomics 101](https://every.to/almanack/tokenomics-101)
 
-- [Book (Chapter): Technical Tokens Dissection](https://github.com/ethereumbook/ethereumbook/blob/develop/10tokens.asciidoc)
+- [Book (Chapter): Technical Tokens Dissection](https://github.com/ethereumbook/ethereumbook/blob/develop/10tokens.asciidoc), Gavin Wood. 
 
 - [Resource: Tokenomics Reports](https://tokenomicsdao.com/), TokenomicsDAO. 
 
-- [Post: Token Engineering and Classification](https://ahitchhikers.substack.com/p/how-can-we-understand-and-classify)
+- [Post: Token Engineering and Classification](https://ahitchhikers.substack.com/p/how-can-we-understand-and-classify), Vasily Sumanov. 
 
-- [Paper: Crypto Asset Taxonomy](https://www.researchgate.net/publication/342262387_Proposal_for_a_Comprehensive_Crypto_Asset_Taxonomy)
+- [Paper: Crypto Asset Taxonomy Proposal](https://www.researchgate.net/publication/342262387_Proposal_for_a_Comprehensive_Crypto_Asset_Taxonomy), Thomas Ankenbrand.
 
 - [Post: Algo stables](https://twitter.com/ben_chain/status/1524065802772787201?s=21&t=jJI5k159T7uIvAwzDx6w2g), @ben_chan.
 
@@ -31,7 +31,7 @@
 
 ## MEV
 
-- [Tweet: Sandwich Attacks Explained](https://twitter.com/0x_beans/status/1505181554351378439?s=21)
+- [Tweet: Sandwich Attacks Explained](https://twitter.com/0x_beans/status/1505181554351378439?s=21), 0x_beans.
 
 - [Resource: MEV Presentations](https://flashbots.notion.site/flashbots/mev-day-836f88806995412dabc1c7bb7ce4e830), Flashbots.
 
@@ -40,7 +40,7 @@
 
 ## DAOs
 
-- [Tweet: Why DAOs? Explained](https://twitter.com/tracheopteryx/status/1511000392552763399?s=21&t=6T-CG-32b7g-VBnH5RzN4A), @tracheopteryx
+- [Tweet: Why DAOs? Explained](https://twitter.com/tracheopteryx/status/1511000392552763399?s=21&t=6T-CG-32b7g-VBnH5RzN4A), @tracheopteryx.
  
 - [Post: DAO Design Patterns](https://medium.com/block-science/dao-design-patterns-1193a694fb55), Block Science.
 
@@ -48,19 +48,19 @@
 
 - [Paper: Decentralised socio-technical infrastructure](https://kelsienabben.substack.com/p/towards-a-model-of-resilience-in), Kelsie Nabben.
 
-- [Post: Marshall Islands DAO Laws](https://banklessdao.substack.com/p/legal-entity-solutions-for-daos-decentralized?s=r)
+- [Post: Marshall Islands DAO Laws](https://banklessdao.substack.com/p/legal-entity-solutions-for-daos-decentralized?s=r), BanklessDAO. 
 
-- [Tweet: Wyoming vs Tenedero DAOs Explained](https://twitter.com/jordanteague/status/1512074309346332674?s=21&t=B39F463eL-n-hOiRfTDGmQ)
+- [Tweet: Wyoming vs Tenedero DAOs Explained](https://twitter.com/jordanteague/status/1512074309346332674?s=21&t=B39F463eL-n-hOiRfTDGmQ), @jordanteague. 
 
-- [Article: Why DAOs should incorporate](https://thedefiant.io/daos-unlimited-liability-risks/)
+- [Article: Why DAOs should incorporate](https://thedefiant.io/daos-unlimited-liability-risks/), The Defiant.
 
 - [Why DAOs need legal personality](https://unchainedpodcast.com/can-a-dao-go-to-court-according-to-two-dao-legal-experts-probably/)
 
-- [Article: DAO Regulation in Australia](https://cointelegraph.com/news/dao-regulation-in-australia-issues-and-solutions-part-1)
+- [Article: DAO Regulation in Australia](https://cointelegraph.com/news/dao-regulation-in-australia-issues-and-solutions-part-1), CoinTelegraph. 
 
-- [Resource: DAO Participant Legal Defence](), LexPunk Army (*DAO Problems and Solutions*)
+- [Resource: DAO Participant Legal Defence](), LexPunk Army.
 
-- [Post: Mapping DAO Governance Vulnerabilities](https://kelsienabben.substack.com/p/dao-vulnerabilities-a-multi-scale)
+- [Post: Mapping DAO Governance Vulnerabilities](https://kelsienabben.substack.com/p/dao-vulnerabilities-a-multi-scale), Kelsie Nabben.
 
 - [Post: Trying not to fail at DAOs](https://kelsienabben.substack.com/p/experiments-in-algorithmic-governance), Kelsie Nabben.
 
@@ -74,11 +74,11 @@
 
 ## Zero Knowledge Protocols
          
-- [Tweet: zk STARKS Explained](https://twitter.com/liamzebedee/status/1515985033856974851?s=21&t=kVDH-P-3pLilutH5iQAzeA)
+- [Tweet: zk STARKS Explained](https://twitter.com/liamzebedee/status/1515985033856974851?s=21&t=kVDH-P-3pLilutH5iQAzeA), @liamzebedee.
 
-- [Tweet: zk Proofs Explained](https://twitter.com/odin_free/status/1501914340986871813?s=21&t=kVDH-P-3pLilutH5iQAzeA)
+- [Tweet: zk Proofs Explained](https://twitter.com/odin_free/status/1501914340986871813?s=21&t=kVDH-P-3pLilutH5iQAzeA), @odin_free. 
 
-- [Tweet: Roll-up Types Explained]: https://twitter.com/pseudotheos/status/1514242023171125249?s=21&t=ohcaoUjCc02tZK2l_0WhFA
+- [Tweet: Roll-up Types Explained](https://twitter.com/pseudotheos/status/1514242023171125249?s=21&t=ohcaoUjCc02tZK2l_0WhFA), @pseudotheos.
 
 - Code Free StarkWare. https://twitter.com/guthl/status/1516118194947244053?s=21&t=kTf7ZAimgMvzYp8SJPGDww
 
@@ -88,20 +88,20 @@
 
 - [Crypto Lectures](Cryptolectures.io)
 
-- [Ethereum Book](https://github.com/ethereumbook/ethereumbook)
+- [Text: Mastering Ethereum](https://github.com/ethereumbook/ethereumbook), Gavin Wood.
 
-- [StarkNet Tutorials](https://twitter.com/henrilieutaud/status/1514875761685151755?s=21&t=kVDH-P-3pLilutH5iQAzeA)
+- [Tweet: StarkNet Tutorials](https://twitter.com/henrilieutaud/status/1514875761685151755?s=21&t=kVDH-P-3pLilutH5iQAzeA), @henrilieutaud.
 
 
 ## Foundational
 
-- [Tweet: The EVM Explained (Pt.1)](https://twitter.com/noxx3xxon/status/1498012273201360908?s=21)
+- [Tweet: The EVM Explained (1)](https://twitter.com/noxx3xxon/status/1498012273201360908?s=21)
 
-- [Tweet: The EVM Explained (Pt.2)](https://twitter.com/bensparks_/status/1513238520575537162?s=21&t=YCknE7QLcrNUUL2MBWIDRQ)
+- [Tweet: The EVM Explained (2)](https://twitter.com/bensparks_/status/1513238520575537162?s=21&t=YCknE7QLcrNUUL2MBWIDRQ)
 
-- [Tweet: Reading Smart Contracts Explained](https://twitter.com/giaset/status/1480684584253542404?s=21)
+- [Tweet: Reading Smart Contracts Explained](https://twitter.com/giaset/status/1480684584253542404?s=21), @giaset. 
 
-- [Post: How private keys work](https://shapeshift.com/library/unlocking-the-mysteries-of-private-keys)
+- [Post: How private keys work](https://shapeshift.com/library/unlocking-the-mysteries-of-private-keys), ShapeShift. 
 
 - [Introduction to Blockchain](https://bitsonblocks.net/2015/09/09/gentle-introduction-blockchain-technology/)
 
@@ -112,7 +112,7 @@
 
 ## Regulation
 
-- [Post on Navagating Crypto Regulation](https://calblockchain.mirror.xyz/2jApCnHJElssho7cgZ6YXVVzkFV_AfpXttD_KBhq8TI)
+- [Post: Navagating Crypto Regulation](https://calblockchain.mirror.xyz/2jApCnHJElssho7cgZ6YXVVzkFV_AfpXttD_KBhq8TI)
 
 - Report on MiCA: https://twitter.com/lexpunk_army/status/1522649118312706049?s=21&t=KINS6t20wc2gGHJDpTcdrw
 
