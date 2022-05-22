@@ -44,6 +44,8 @@
  
 - [DAO Design Patterns](https://medium.com/block-science/dao-design-patterns-1193a694fb55)
 
+- [Towards a model of resilience in decentralised socio-technical infrastructure](https://kelsienabben.substack.com/p/towards-a-model-of-resilience-in)
+
 - [Marshall Islands DAO Laws](https://banklessdao.substack.com/p/legal-entity-solutions-for-daos-decentralized?s=r)
 
 - Wyoming vs Tenedero DAOs: https://twitter.com/jordanteague/status/1512074309346332674?s=21&t=B39F463eL-n-hOiRfTDGmQ
@@ -90,6 +92,8 @@
 
 - Understanding the EVM 2: https://twitter.com/bensparks_/status/1513238520575537162?s=21&t=YCknE7QLcrNUUL2MBWIDRQ
 
+- [How to read a smart contract](https://twitter.com/giaset/status/1480684584253542404?s=21)
+
 - [How do private keys work?](https://shapeshift.com/library/unlocking-the-mysteries-of-private-keys)
 
 - Intro to blockchain: https://bitsonblocks.net/2015/09/09/gentle-introduction-blockchain-technology/
@@ -101,20 +105,18 @@
 
 ## Regulation
 
-- Navagating Crypto Regulation: https://calblockchain.mirror.xyz/2jApCnHJElssho7cgZ6YXVVzkFV_AfpXttD_KBhq8TI
+- [Navagating Crypto Regulation](https://calblockchain.mirror.xyz/2jApCnHJElssho7cgZ6YXVVzkFV_AfpXttD_KBhq8TI)
 
 - Report on MiCA: https://twitter.com/lexpunk_army/status/1522649118312706049?s=21&t=KINS6t20wc2gGHJDpTcdrw
 
 - reinventing financial regulation: Persaud, Avinash 
 
-- WEF Policy Maker Toolkit for DeFi: https://www3.weforum.org/docs/WEF_DeFi_Policy_Maker_Toolkit_2021.pdf
+- [WEF Policy Maker Toolkit for DeFi](https://www3.weforum.org/docs/WEF_DeFi_Policy_Maker_Toolkit_2021.pdf)
 
 
 ## Other
 
 - Building a Twitter following: https://twitter.com/thedefiedge/status/1511009241699549191?s=21&t=Lt6DlSMyX_nMB4Ivb6Sdzw
-
-- How to read a smart contract: https://twitter.com/giaset/status/1480684584253542404?s=21
 
 - Trustless not decentralised: https://hackernoon.com/decentralized-and-trustless-networks-f881671fae4e
 
@@ -123,8 +125,6 @@
 - Trustless not decentralised: https://medium.com/coinbundle/decentralized-networks-1d5e2e92953b
 
 - Lido Vulnerability Assessment: https://medium.com/block-science/dao-vulnerabilities-a-map-of-lido-governance-risks-opportunities-92bc6384ff68
-
-- Towards a model of resilience in decentralised socio-technical infrastructure: https://kelsienabben.substack.com/p/towards-a-model-of-resilience-in
 
 - Crypto Reading List: https://mycelium-eth.notion.site/Reading-writing-listening-thinking-5a7ba815879e42628fd94279d6486b8b
 
