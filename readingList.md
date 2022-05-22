@@ -31,9 +31,9 @@
 
 ## MEV
 
-- What is a sandwich attack: https://twitter.com/0x_beans/status/1505181554351378439?s=21
+- [Sandwich Attacks Explained](https://twitter.com/0x_beans/status/1505181554351378439?s=21)
 
-- [Explaining rugpull investigations](https://twitter.com/exlawyernft/status/1507194315675643925?s=21)
+- [Rugpull Investigations Explained](https://twitter.com/exlawyernft/status/1507194315675643925?s=21)
 
 - [Flashbots Presentation Resources](https://flashbots.notion.site/flashbots/mev-day-836f88806995412dabc1c7bb7ce4e830)
 
