@@ -1,0 +1,13 @@
+## Crypto is Not Just for Monkeys
+
+Crypto provides a smorgasbord of options for people willing to part with their money. As a crypto investor, you have a standing invitation to YOLO into a variety of illiquid, dog-themed tokens at 100x leverage. You can also try your hand at timing the perfect exit from a selection of functionally-identical Ponzi-game investments.  If you’re not into strategy, you can reliably acquire an unreasonably priced image of a monkey from all good NFT retailers. 
+
+There's more. The crypto investment game is multi-levelled. In expert mode, you lose the guard rails provided by centralised intermediaries. You interact directly with the blockchain and must observe constant vigilance. A chatroom stranger sharing an unsolicited link will lead to empty wallets and lost monkeys. An unaudited piece of code will be seen an open challenge to an army of hobbyist hackers. A spike in demand for block space will 50x the cost of any transaction. And robots will quite literally battle to front run transactions and sandwich attack trades. 
+
+But crypto also has non-speculative sides. 
+
+Decentralised applications (**dApps**) dispense services like vending machines dispense chocolates. Financial dApps have seen the most successes - with top collateralised lenders having matched borrowers with tens of billions of dollars from crowdsourced pools of dollar denominated tokens (routing several million a day in interest payments to depositors). From origination to repayment, setting rates to routing interest, and from assessing risk to liquidating collateral -- the entire process is managed by smart contract code and enforced by blockchain consensus. 
+
+Another creature of crypto is the decentralised autonomous organisation (**DAO**). A DAO is like a vending machine for boardroom decisions. A community of project contributors stocks the DAO full of ideas - making them available for all project stakeholders to browse and select. In many DAOs, the selection of an idea by a proper quorum of stakeholders will automatically execute a governance action (for example, a transfer of funds to a service provider). A DAO can be designed to ensure some or all governance actions are cryptographically impossible without stakeholder approval.  
+
+Whether the future of finance, organisations or general services will be dominated by vending machines is far from certain.  Whether such a future would be a utopian paradise or dystopian nightmare is up for debate. In ether case, crypto unquestionably provides a new playground for testing human ingunuity.  It's not just for monkeys.  
