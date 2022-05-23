@@ -28,6 +28,8 @@
 
 - Paper: [Comparing legal title to tokens](https://doi.org/10.1007/978-3-662-58820-8_23), Alex Konashevych.
 
+- Paper: [Measuring Token Distribution](https://arxiv.org/pdf/2012.09306.pdf), Fabian Schär. 
+
 
 ## MEV
 
