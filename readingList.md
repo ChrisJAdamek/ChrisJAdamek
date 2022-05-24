@@ -72,7 +72,9 @@
 ## Scams and Exploits
 
 - Tweet: [Rugpull Investigations Explained](https://twitter.com/exlawyernft/status/1507194315675643925?s=21), @exlawyernft. 
+
 - Paper: [Finding The Greedy, Prodigal, and Suicidal Contracts at Scale](https://arxiv.org/pdf/1802.06038.pdf), Ivica Nikolic (NUS Singapore). 
+- Paper: [Smart Contracts: Attacks and Exploits](https://www.researchgate.net/publication/338926064_Smart_Contract_Attacks_and_Protections), Sarwar Sayeed (Uni West Scotland). 
 
 
 ## Cryptoeconomics
