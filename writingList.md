@@ -3,6 +3,6 @@
 
 ## Ideas and Unpublished Drafts. 
 
-- [Crypto is Not Just for Monkeys](/writings/cryptoIsNotJustForMonkeys.md)
+- Crypto is Not Just for Monkeys
 
-- [Curious Crypto Counterinstances](/writings/curiousCryptoCounterinstances.md)
+- Curious Crypto Counterinstances
