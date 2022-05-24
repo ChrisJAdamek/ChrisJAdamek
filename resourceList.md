@@ -2,5 +2,5 @@
 **My go to resources for data and analysis** 
 
 ### DAOS
-- [DeepDAO](deepdao.io)
+- [DeepDAO](https://deepdao.io)
 - 
