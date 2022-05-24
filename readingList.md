@@ -130,6 +130,9 @@
 
 - Resource: [Policy Maker Toolkit for DeFi](https://www3.weforum.org/docs/WEF_DeFi_Policy_Maker_Toolkit_2021.pdf), World Economic Forum. 
 
+## Stablecoins
+
+- Tweet: [Stablecoins will frontrun Mainstream crypto adoption](https://twitter.com/chainlinkgod/status/1528760841448919045?s=21&t=s8Xw-lLXtxgn3rZtrd1OoQ)
 
 ## Other
 
