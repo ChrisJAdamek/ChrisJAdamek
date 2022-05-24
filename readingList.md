@@ -68,6 +68,8 @@
 
 - VendingMachineDAO: https://scholarspace.manoa.hawaii.edu/bitstream/10125/80072/0588.pdf
 
+- Paper: [Corporate Governance in a Crypto World](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4099906)
+
 
 ## Scams and Exploits
 
