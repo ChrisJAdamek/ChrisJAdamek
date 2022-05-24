@@ -1,7 +1,8 @@
 
 # 📓 My Writing 
 
-All Draft and Unpublished 
+## Ideas and Unpublished Drafts. 
 
-### Op-Ed Style
 - [Crypto is Not Just for Monkeys](/writings/cryptoIsNotJustForMonkeys.md)
+
+- [Curious Crypto Counterinstances](/writings/curiousCryptoCounterinstances.md)
