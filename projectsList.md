@@ -1,8 +1,8 @@
 # 💻 Project List
 
-## cryptoTools
+## cryptoTools Tutorials
 
-- [cryptoTools 101 Tutorial](https://github.com/ChrisJAdamek/cryptoTools).
+- [cryptoTools 101 - Discord, Metamask, Polygon](https://github.com/ChrisJAdamek/cryptoTools).
  
-- [cryptoTools 102 Tutorial](https://github.com/ChrisJAdamek/cryptoTools).
+- [cryptoTools 102 - DAOhaus, Snapshot](https://github.com/ChrisJAdamek/cryptoTools).
 - 
