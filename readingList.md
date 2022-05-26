@@ -1,7 +1,7 @@
 # 📚 My Reading 
 
 ## Stats and Tools
-- Resource: <a href="https://ultrasound.money" target="_blank">ERC-20 TVL (Ethereum)</a>
+- Resource: [ERC-20 TVL (Ethereum)](https://ultrasound.money) 
 
 - Resource: [Beacon Chain](https://twitter.com/superphiz/status/1512770843285327875?s=21&t=RMgFuOl3LvGBK1rwFC_51Q)
 
