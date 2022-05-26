@@ -136,6 +136,8 @@
 
 - Tweet: [Stablecoins will frontrun Mainstream crypto adoption](https://twitter.com/chainlinkgod/status/1528760841448919045?s=21&t=s8Xw-lLXtxgn3rZtrd1OoQ)
 
+- Paper: [A Classification Framework for Stablecoin Designs"](https://arxiv.org/pdf/1910.10098), AVA Labs.
+
 ## Other
 
 - Building a Twitter following: https://twitter.com/thedefiedge/status/1511009241699549191?s=21&t=Lt6DlSMyX_nMB4Ivb6Sdzw
