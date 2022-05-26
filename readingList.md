@@ -23,11 +23,17 @@
 
 - Post: [Algo stables](https://twitter.com/ben_chain/status/1524065802772787201?s=21&t=jJI5k159T7uIvAwzDx6w2g), @ben_chan.
 
-- Post: [Stablecoins and Consumer Protection](https://lexdao.substack.com/p/stable-act-a-legal-engineers-perspective?s=r), LexDAO.
-
 - Paper: [Comparing legal title to tokens](https://doi.org/10.1007/978-3-662-58820-8_23), Alex Konashevych.
 
 - Paper: [Measuring Token Distribution](https://arxiv.org/pdf/2012.09306.pdf), Fabian Schär. 
+
+## Stablecoins
+
+- Tweet: [Stablecoins will frontrun Mainstream crypto adoption](https://twitter.com/chainlinkgod/status/1528760841448919045?s=21&t=s8Xw-lLXtxgn3rZtrd1OoQ)
+
+- Paper: [A Classification Framework for Stablecoin Designs"](https://arxiv.org/pdf/1910.10098), AVA Labs.
+
+- Post: [Stablecoins and Consumer Protection](https://lexdao.substack.com/p/stable-act-a-legal-engineers-perspective?s=r), LexDAO.
 
 
 ## MEV
@@ -130,12 +136,6 @@
 - Book: [Reinventing Financial Regulation](), Avinash Persaud.
 
 - Resource: [Policy Maker Toolkit for DeFi](https://www3.weforum.org/docs/WEF_DeFi_Policy_Maker_Toolkit_2021.pdf), World Economic Forum. 
-
-## Stablecoins
-
-- Tweet: [Stablecoins will frontrun Mainstream crypto adoption](https://twitter.com/chainlinkgod/status/1528760841448919045?s=21&t=s8Xw-lLXtxgn3rZtrd1OoQ)
-
-- Paper: [A Classification Framework for Stablecoin Designs"](https://arxiv.org/pdf/1910.10098), AVA Labs.
 
 ## Other
 
