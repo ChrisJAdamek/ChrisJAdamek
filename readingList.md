@@ -35,7 +35,7 @@
 
 - Post: [Stablecoins and Consumer Protection](https://lexdao.substack.com/p/stable-act-a-legal-engineers-perspective?s=r), LexDAO.
 
-Open Source Software
+##Open Source Software
 
 - Paper: [Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/)
 
