@@ -9,6 +9,9 @@
 
 
 ## Tokens
+
+- Paper: [Leading Digital Socio-Economy to Efficienc: A Primer on Tokenomics](https://arxiv.org/abs/2008.02538), Lamberty - University of Basel. 
+
 - Submission: [Response to MiCA Proposal](https://github.com/LeXpunK-Army/MiCA-GUIDANCE/blob/main/LexPunkMiCAReport.pdf), LexPunk Army. 
 
 - [Tokenomics 101](https://every.to/almanack/tokenomics-101)
