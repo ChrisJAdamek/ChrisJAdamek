@@ -142,6 +142,8 @@
 - Book: [Reinventing Financial Regulation](), Avinash Persaud.
 
 - Resource: [Policy Maker Toolkit for DeFi](https://www3.weforum.org/docs/WEF_DeFi_Policy_Maker_Toolkit_2021.pdf), World Economic Forum. 
+- 
+- Paper: [Deconstructing Digital Currency and Its Risks: Why ASIC Must Rise to the Regulatory Challenge](https://journals.sagepub.com/doi/full/10.1177/0067205X18816237)
 
 ## Other
 
