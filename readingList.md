@@ -53,6 +53,8 @@
 
 ## DAOs
 
+- [DAO Legal Wrappers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123737)
+
 - Tweet: [Why DAOs? Explained](https://twitter.com/tracheopteryx/status/1511000392552763399?s=21&t=6T-CG-32b7g-VBnH5RzN4A), @tracheopteryx.
  
 - Post: [DAO Design Patterns](https://medium.com/block-science/dao-design-patterns-1193a694fb55), Block Science.
