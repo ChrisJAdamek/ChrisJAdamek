@@ -96,6 +96,8 @@
 
 - https://marginalrevolution.com/wp-content/uploads/2022/05/Cryptoeconomics-Modern-Principles.pdf
 
+- Paper: [Why 'permissioned' and 'private' DLTs are not blockchains](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3496468),Oleksii Konashevych.
+
 
 ## Zero Knowledge Protocols
          
